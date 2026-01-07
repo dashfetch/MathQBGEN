@@ -1,5 +1,5 @@
 
-# MathQBGEN / MathQB-ver1
+# MathQBGEN
 
 In the ever-evolving landscape of education, teachers face a multitude of challenges, from engaging students in the classroom to managing their daily workload. Amidst this demanding environment, a dedicated group of educators sought to revolutionize the way teachers interact with the invaluable currency of learning – questions.
 
