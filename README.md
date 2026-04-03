@@ -16,9 +16,6 @@ This app hosted locally is designed to serve as a Question Storage and Organizat
 ![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/example_demo.png "Logo title Text 2")
 ![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/qbtab_demo.png "Logo title Text 2")
 
-## Detailed Documentation
-
-[Google Docs Link](https://docs.google.com/document/d/1-VkjUvET3Nv7kJHVub3VvoEZ-tLXL5EbnXvo0jggC0o/edit?tab=t.0#heading=h.7yqxelu1zpo1) For Detailed Documentation (Original)
 ## Tech Stack
 Everthing is Local and Client-side.
 
